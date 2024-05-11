@@ -18,7 +18,7 @@ START_MESSAGE = """
 ʜᴇʟʟᴏ <a href='tg://settings'>ᴛʜᴀɴᴋ ʏᴏᴜ</a>
 <i>📌You can get the song you want only if you ask in the group without spelling it wrong...!! \n\n
 
-ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴊᴏɪɴ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ <a href='http://t.me/movie7xchat'>ᴄʟɪᴄᴋ</a>
+ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴊᴏɪɴ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ <a href='http://t.me/TGXMOVIEZ'>ᴄʟɪᴄᴋ</a>
 
 
 𝐅𝐨𝐫 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 :-
@@ -74,7 +74,7 @@ async def video(client, message):
         InlineKeyboardButton("ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴊᴏɪɴ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ", url="https://t.me/movie7xchat")
     ]]                           
     await message.reply_video(
-    video=ffile, caption=f"[{sname}]({r['data']['results'][0]['url']}) - from @team_netflix ",thumb=thumbnail,
+    video=ffile, caption=f"[{sname}]({r['data']['results'][0]['url']}) - from @TEAMILLUMINIX ",thumb=thumbnail,
     reply_markup=InlineKeyboardMarkup(buttons)
 )
     await message.reply_text(text="download flac song @flac_english")
