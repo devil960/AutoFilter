@@ -44,6 +44,8 @@ class script(object):
 ➢ <a href='https://graph.org/file/02e7ecc3e2693b481b914.jpg'>ғᴀᴍᴘᴀʏ</a>
 
 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ғᴏʀ ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴛʜᴇ ᴘᴀʏᴍᴇɴᴛ ɪɴғᴏ
+
+ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://t.me/DevilBoy46'>ᴏᴡɴᴇʀ</a>
 </b>"""
 
     SUBSCRIPTION_TXT = """
@@ -87,7 +89,7 @@ class script(object):
 
 ›› ꜱᴛᴇᴘ 7 : ᴜꜱᴇ /set_tutorial ᴛᴏ ᴀᴅᴅ ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴠɪᴅᴇᴏ ꜰᴏʀ ʏᴏᴜʀ ꜱʜᴏʀᴛɴᴇʀ ᴡᴇʙꜱɪᴛᴇ.
 
-› ʟɪᴋᴇ ᴛʜɪꜱ :</b> <code>/set_tutorial https://t.me/How_to_Download_7x/35</code>
+› ʟɪᴋᴇ ᴛʜɪꜱ :</b> <code>/set_tutorial https://t.me/MW_BOTS</code>
 
 <b>›› ꜱᴛᴇᴘ 8 : ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴄʜᴇᴄᴋ ᴡʜɪᴄʜ sʜᴏʀᴛᴇɴᴇʀ ʏᴏᴜ ʜᴀᴠᴇ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇɴᴅ /get_info ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
 
@@ -341,7 +343,7 @@ Mᴏᴠɪᴇs Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Rᴇᴀsᴏɴ:
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>🥲"""
 
-    CAPTION = """ 
+    CAPTION1 = """ 
 <b>• {file_name}
 ╭──────────────────╮
 • <a href="https://t.me/anime_cruise_netflix">ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>
@@ -350,6 +352,20 @@ Mᴏᴠɪᴇs Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Rᴇᴀsᴏɴ:
 ╰──────────────────╯
 
 • ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="https://t.me/codeflix_bots/161">ᴄᴏᴅᴇғʟɪx ʙᴏᴛs</a></b>"""
+
+    CAPTION = """
+<b>ɴᴀᴍᴇ : </b> <code>{file_name}</code>
+<b>ꜱɪᴢᴇ : </b> <code>{file_size}</code>
+<b>
+╭────── • ◆ • ──────╮
+  🔅 ʙᴏᴛ ᴍᴀᴅᴇ ʙy:  <a href="https://t.me/MW_BOTS">𝙼𝚆 𝙱𝙾𝚃𝚂</a>
+╰────── • ◆ • ──────╯
+
+========= • ✠ • =========
+▫️ ᴄʜᴀɴɴᴇʟ : @TEAMILLUMINIX
+▫️ ɢʀᴏᴜᴘ : @illuminixchats
+▫️ ɢʀᴏᴜᴘ : @TGX_Moviez
+========= • ✠ • =========</b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
@@ -406,7 +422,7 @@ IMDb Data:
 
 ᴜsᴇ ᴛʜɪs ꜰᴏʀᴍᴀᴛ 👇
 
-❍ /github phoenix-erotixe
+❍ /github github
 ❍ /git : to get github id information
 """
 
@@ -488,7 +504,7 @@ NOTE:
     GROUP_TXT = """
 <b>๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ᴛᴏ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ɢᴇᴛ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴜs.
 
-ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ᴀɴʏ ʙᴜɢ ɪɴ ˹𝐋ᴜᴄʏ˼ ᴏʀ ɪғ ʏᴏᴜ ᴡᴀɴɴᴀ ɢɪᴠᴇ ғᴇᴇᴅʙᴀᴄᴋ ᴀʙᴏᴜᴛ ᴛʜᴇ ʙᴏᴛ˼, ᴩʟᴇᴀsᴇ ʀᴇᴩᴏʀᴛ ɪᴛ ᴀᴛ <a href='https://t.me/+DnmZbLjS0iw0YWI1'>sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ</a>.</b>"""
+ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ᴀɴʏ ʙᴜɢ ɪɴ ˹𝐋ᴜᴄʏ˼ ᴏʀ ɪғ ʏᴏᴜ ᴡᴀɴɴᴀ ɢɪᴠᴇ ғᴇᴇᴅʙᴀᴄᴋ ᴀʙᴏᴜᴛ ᴛʜᴇ ʙᴏᴛ˼, ᴩʟᴇᴀsᴇ ʀᴇᴩᴏʀᴛ ɪᴛ ᴀᴛ <a href='https://t.me/MW_BOTZ_SUPPORT'>sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ</a>.</b>"""
 
     PURGE_TXT = """<b>ᴘᴜʀɢᴇ
     
@@ -548,7 +564,7 @@ sᴀᴀᴠɴ sᴏɴɢs ᴄᴏᴍᴍᴀɴᴅ
 
 ᴜsᴇ ᴛʜɪs ꜰᴏʀᴍᴀᴛ 👇
 
-ᴇxᴀᴍᴘʟᴇ ;- <code>/repo/allrepo codeflix-bots</code>"""
+ᴇxᴀᴍᴘʟᴇ ;- <code>/repo/allrepo MWBOTS</code>"""
 
     SHORTNER = """<b>ᴜʀʟ sʜᴏʀᴛɴᴇʀ</b>
 
@@ -847,7 +863,7 @@ Example:
 """
 
     SUPPORT_TXT = """ᴛʜᴇsᴇ ᴀʀᴇ ᴍʏ sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘ. ɪғ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ, ʀᴇᴘᴏʀᴛ ᴛᴏ ᴛʜᴇ ᴀᴅᴍɪɴ
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @codeflix_bots"""
+ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @MW_BOTS"""
 
     PAGE_TXT = """ᴡʜʏ ᴀʀᴇ ʏᴏᴜ ꜱᴏ ᴄᴜʀɪᴏᴜꜱ ⁉️"""
 
@@ -863,7 +879,7 @@ Example:
 ● <code>250₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>dm - @sewxiy</code>
+💵 ᴜᴘɪ ɪᴅ - <code>dm - @DevilBoy46</code>
 📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://graph.org/file/02e7ecc3e2693b481b914.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
@@ -880,7 +896,7 @@ Example:
 ● <code>250₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>dm - @sewxiy</code>
+💵 ᴜᴘɪ ɪᴅ - <code>dm - @DevilBoy46</code>
 📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://graph.org/file/02e7ecc3e2693b481b914.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
@@ -914,7 +930,7 @@ Example:
 ○ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs
 ○ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ
 
-👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/sewxiy'>ᴏᴡɴᴇʀ</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
+👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/DevilBoy46'>ᴏᴡɴᴇʀ</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
 
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
@@ -970,7 +986,7 @@ Example:
 ⏰ ᴄᴜꜱᴛᴏᴍɪꜱᴇᴅ ᴅᴀʏꜱ
 💸 ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴅᴀʏꜱ ʏᴏᴜ ᴄʜᴏᴏꜱᴇ
 
-🏆 ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀ ɴᴇᴡ ᴘʟᴀɴ ᴀᴘᴀʀᴛ ꜰʀᴏᴍ ᴛʜᴇ ɢɪᴠᴇɴ ᴘʟᴀɴ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀʟᴋ ᴛᴏ ᴏᴜʀ <a href='https://t.me/sewxiy'>ᴏᴡɴᴇʀ</a> ᴅɪʀᴇᴄᴛʟʏ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ᴄᴏɴᴛᴀᴄᴛ ʙᴜᴛᴛᴏɴ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.
+🏆 ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀ ɴᴇᴡ ᴘʟᴀɴ ᴀᴘᴀʀᴛ ꜰʀᴏᴍ ᴛʜᴇ ɢɪᴠᴇɴ ᴘʟᴀɴ, ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀʟᴋ ᴛᴏ ᴏᴜʀ <a href='https://t.me/DevilBoy46'>ᴏᴡɴᴇʀ</a> ᴅɪʀᴇᴄᴛʟʏ ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴏɴ ᴛʜᴇ ᴄᴏɴᴛᴀᴄᴛ ʙᴜᴛᴛᴏɴ ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.
     
 👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴏᴡɴᴇʀ ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴏᴛʜᴇʀ ᴘʟᴀɴ.
 
@@ -981,7 +997,7 @@ Example:
     
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-💵 ᴜᴘɪ ɪᴅ - <code>dm - @sewxiy</code>
+💵 ᴜᴘɪ ɪᴅ - <code>dm - @DevilBoy46</code>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -1003,7 +1019,7 @@ Example:
 ● <code>250₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>dm - @sewxiy</code>
+💵 ᴜᴘɪ ɪᴅ - <code>dm - @DevilBoy46</code>
 📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://graph.org/file/02e7ecc3e2693b481b914.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
@@ -1024,7 +1040,7 @@ Nᴀᴍᴇ : {}
 Uꜱᴇʀ Sᴛᴀᴛᴜꜱ : Vᴇʀɪғɪᴇᴅ</b>
 """
 
-    LOGO = """ BOT DEPLOYED BY @CODEFLIX_BOTS"""
+    LOGO = """ BOT DEPLOYED BY @MW_BOTS"""
 
 # dont remove logo
 
