@@ -51,7 +51,7 @@ class script(object):
     SUBSCRIPTION_TXT = """
 <b>ʀᴇғᴇʀʀᴇ ʏᴏᴜʀ ʟɪɴᴋ ᴛᴏ ʏᴏᴜʀ ғʀɪᴇɴᴅs, ғᴀᴍɪʟʏ, ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘ ᴛᴏ ɢᴇᴛ ғʀᴇᴇ ᴘʀᴇᴍɪᴜᴍ ғᴏʀ {}
 
-ʀᴇғᴇʀᴀʟ ʟɪɴᴋ - https://telegram.me/{}?start=Lucy-{}
+ʀᴇғᴇʀᴀʟ ʟɪɴᴋ - https://telegram.me/{}?start=MWBOTS-{}
 
 ɪғ {} ᴜɴɪǫᴜᴇ ᴜsᴇʀ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴡɪᴛʜ ʏᴏᴜʀ ʀᴇғᴇʀᴀʟ ʟɪɴᴋ ᴛʜᴇɴ ʏᴏᴜ ᴡɪʟʟ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴀᴅᴅᴇᴅ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪsᴛ.
 
@@ -415,7 +415,7 @@ IMDb Data:
 
 ᴜsᴇ ᴛʜɪs ꜰᴏʀᴍᴀᴛ 👇</b> 
 
-<code>/ytthumb https://youtu.be/BqlMwyABHOE</code>"""
+<code>/ytthumb https://youtu.be/YN2H_sKcmGw?si=BVPY2VchWcnDOXSP</code>"""
 
     GITHUB = """<b>ɢɪᴛʜᴜʙ ᴅᴇᴛᴀɪʟs -</b>
 
@@ -445,9 +445,9 @@ IMDb Data:
 
 ᴇxᴀᴍᴘʟᴇ :</b>
 
-<code>/mp4 https://youtu.be/BqlMwyABHOE</code>
+<code>/mp4 https://youtu.be/YN2H_sKcmGw?si=BVPY2VchWcnDOXSP</code>
 
-<code>/video https://youtu.be/BqlMwyABHOE</code>"""
+<code>/video https://youtu.be/YN2H_sKcmGw?si=BVPY2VchWcnDOXSP</code>"""
 
     REPORT = """<b>ʀᴇᴘᴏʀᴛ 🧑🏻‍✈️  
 
@@ -459,7 +459,7 @@ IMDb Data:
 /report 𝗈𝗋 @admin - 𝖳𝗈 𝗋𝖾𝗉𝗈𝗋𝗍 𝖺 𝗎𝗌𝖾𝗋 𝗍𝗈 𝗍𝗁𝖾 𝖺𝖽𝗆𝗂𝗇𝗌 (𝗋𝖾𝗉𝗅𝗒 𝗍𝗈 𝖺 𝗆𝖾𝗌𝗌𝖺𝗀𝖾).</b>"""
 
     MIKEY = """
-<b>ᴍɪᴋᴇʏ'ꜱ ʙɪᴏ 🙋‍♂
+<b>ʟᴜᴛʜᴇʀ'ꜱ ʙɪᴏ 🙋‍♂
 
 ╰─➩ ᴍʏ ɴᴀᴍᴇ - ʟᴜᴛʜᴇʀ
 ╰─➩ ᴜsᴇʀɴᴀᴍᴇ - <a href='https://t.me/DevilBoy46'>ʟᴜᴛʜᴇʀ</a>
@@ -485,7 +485,7 @@ NOTE:
 • Only Digits Are Allowed
 • Maximum Allowed Digits Till 84 
   (I Can't Generate Passwords Above The Length 84)
-• IMDb should have admin privillage.
+• Bot should have admin privillage.
 • These commands works on both pm and group.
 • These commands can be used by any group member."""
 
@@ -607,7 +607,7 @@ sᴀᴀᴠɴ sᴏɴɢs ᴄᴏᴍᴍᴀɴᴅ
 ➪/unmute: 𝖳𝗈 𝗎𝗇𝗆𝗎𝗍𝖾 𝖺 𝗎𝗌𝖾𝗋 𝗂𝗇 𝗍𝗁𝖾 𝗀𝗋𝗈𝗎𝗉.
 ➪/tmute: 𝖳𝗈 𝗍𝖾𝗆𝗉𝗈𝗋𝖺𝗋𝗂𝗅𝗒 𝗆𝗎𝗍𝖾 𝖺 𝗎𝗌𝖾𝗋.
 
-ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴏᴅᴇғʟɪx ʙᴏᴛs
+<b><a href=https://t.me/MW_BOTS>~ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ ᴍᴡ ʙᴏᴛᴢ</a></b>
 
 ➤ 𝖭𝗈𝗍𝖾:
 𝖶𝗁𝗂𝗅𝖾 𝗎𝗌𝗂𝗇𝗀 /tmute 𝗈𝗋 /tban 𝗒𝗈𝗎 𝗌𝗁𝗈𝗎𝗅𝖽 𝗌𝗉𝖾𝖼𝗂𝖿𝗒 𝗍𝗁𝖾 𝗍𝗂𝗆𝖾 𝗅𝗂𝗆𝗂𝗍.
@@ -721,7 +721,7 @@ Cᴏᴍᴍᴀɴᴅꜱ ᴀɴᴅ Uꜱᴀɢᴇ:
  ᴀɪ ᴄᴀɴ ᴀɴsᴡᴇʀ ʏᴏᴜʀ ǫᴜᴇsᴛɪᴏɴ  ᴀɴᴅ sʜᴏᴡs ʏᴏᴜ ᴛʜᴇ ʀᴇsᴜʟᴛ
 
  ❍ /chatgpt  : ʀᴇᴘʟʏ ᴛᴏ ᴍᴇssᴀɢᴇ ᴏʀ ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ
- ❍ /lucy : ʀᴇᴘʟʏ ᴛᴏ ᴍᴇssᴀɢᴇ ᴏʀ ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ
+ ❍ /Alena : ʀᴇᴘʟʏ ᴛᴏ ᴍᴇssᴀɢᴇ ᴏʀ ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ
  ❍ /ask : ᴀɪ ɢᴏᴏɢʟᴇ ᴀɪ 
  ❍ /gpt : chatgpt
  ❍ /chat :  ʀᴇᴘʟʏ ᴛᴏ ᴍᴇssᴀɢᴇ ᴏʀ ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ
@@ -772,7 +772,7 @@ Example:
 ➢ /animelogo (Text) : ᴄʀᴇᴀᴛᴇ ᴀ anime ʟᴏɢᴏ ᴏғ ʏᴏᴜʀ ɢɪᴠᴇɴ ᴛᴇxᴛ ᴡɪᴛʜ ʀᴀɴᴅᴏᴍ ᴠɪᴇᴡ.
 
 ɴᴏᴛᴇ:
-• ʟᴜᴄʏ sʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟʟᴀɢᴇ.
+• ʙᴏᴛ sʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟʟᴀɢᴇ.
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴡᴏʀᴋs ᴏɴ ʙᴏᴛʜ ᴘᴍ ᴀɴᴅ ɢʀᴏᴜᴘ.
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ʙʏ ᴀɴʏ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀ.
 
@@ -806,7 +806,7 @@ Example:
 👮🏻 /delall - ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴡʜᴏʟᴇ ꜰɪʟᴛᴇʀꜱ ɪɴ ᴀ ᴄʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)
 
 ɴᴏᴛᴇ:
-• ʟᴜᴄʏ sʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟʟᴀɢᴇ.
+• ʙᴏᴛ sʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟʟᴀɢᴇ.
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴡᴏʀᴋs ᴏɴ ʙᴏᴛʜ ᴘᴍ ᴀɴᴅ ɢʀᴏᴜᴘ.
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ʙʏ ᴀɴʏ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀ.
 
@@ -836,7 +836,7 @@ Example:
 
 
 ɴᴏᴛᴇ:
-• ʟᴜᴄʏ sʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟʟᴀɢᴇ.
+• ʙᴏᴛ sʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟʟᴀɢᴇ.
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴡᴏʀᴋs ᴏɴ ʙᴏᴛʜ ᴘᴍ ᴀɴᴅ ɢʀᴏᴜᴘ.
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ʙʏ ᴀɴʏ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀ.
 
@@ -856,7 +856,7 @@ Example:
  ➻ /imagine : ᴄʀᴇᴀᴛᴇ ᴀɪ ɪᴍᴀɢᴇs
 
 ɴᴏᴛᴇ:
-• ʟᴜᴄʏ sʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟʟᴀɢᴇ.
+• ʙᴏᴛ sʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟʟᴀɢᴇ.
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴡᴏʀᴋs ᴏɴ ʙᴏᴛʜ ᴘᴍ ᴀɴᴅ ɢʀᴏᴜᴘ.
 • ᴛʜᴇsᴇ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ʙʏ ᴀɴʏ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀ.
 
