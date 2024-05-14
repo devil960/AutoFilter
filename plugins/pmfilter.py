@@ -1557,7 +1557,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             user_id = query.from_user.id
             username = query.from_user.mention 
             log_msg = await client.send_cached_media(
-                chat_id=LOG_CHANNEL,
+                chat_id=FILETOLINK_LOG_CHANNEL,
                 file_id=file_id,
             )
             fileName = {quote_plus(get_name(log_msg))}
