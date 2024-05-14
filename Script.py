@@ -263,12 +263,6 @@ Hᴇʟᴘ : <b>Sᴇᴛᴛɪɴɢꜱ</b>
 
 /𝐬𝐭𝐢𝐜𝐤𝐞𝐫𝐢𝐝 𝐬𝐭𝐢𝐜𝐤𝐞𝐫 𝐢𝐝
 
-    STATUS_TXT1 = """<b>‣ ᴛᴏᴛᴀʟ ꜰɪʟᴇs: <code>{}</code>
-‣ ᴛᴏᴛᴀʟ ᴜsᴇʀs: <code>{}</code>
-‣ ᴛᴏᴛᴀʟ ᴄʜᴀᴛs: <code>{}</code>
-‣ ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ: <code>{}</code>
-‣ ꜰʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code></b>"""
-
     STATUS_TXT = """<b>📂 ғɪʟᴇs sᴀᴠᴇᴅ:</b> <code>{}</code>
 <b>👤 ᴜsᴇʀs:</b> <code>{}</code>
 <b>👥 ɢʀᴏᴜᴘs:</b> <code>{}</code>
