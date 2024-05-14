@@ -261,7 +261,7 @@ Hᴇʟᴘ : <b>Sᴇᴛᴛɪɴɢꜱ</b>
 ⭕ ʜᴏᴡ ᴛᴏ ᴜꜱᴇ
 ◉ Reply To Any Sticker [/stickerid]
 
-/𝐬𝐭𝐢𝐜𝐤𝐞𝐫𝐢𝐝 𝐬𝐭𝐢𝐜𝐤𝐞𝐫 𝐢𝐝
+/𝐬𝐭𝐢𝐜𝐤𝐞𝐫𝐢𝐝 𝐬𝐭𝐢𝐜𝐤𝐞𝐫 𝐢𝐝"""<b>
 
     STATUS_TXT = """<b>📂 ғɪʟᴇs sᴀᴠᴇᴅ:</b> <code>{}</code>
 <b>👤 ᴜsᴇʀs:</b> <code>{}</code>
