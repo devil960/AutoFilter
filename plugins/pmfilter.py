@@ -193,10 +193,10 @@ async def pm_text(bot, message):
          text=f"<b>ʜᴇʏ {user} ,\n\nʏᴏᴜ ᴄᴀɴ'ᴛ ɢᴇᴛ ᴍᴏᴠɪᴇs ꜰʀᴏᴍ ʜᴇʀᴇ. ʀᴇǫᴜᴇsᴛ ɪᴛ ɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ</a> ᴏʀ ᴄʟɪᴄᴋ ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ 👇</b>",   
          reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("✧ ᴛᴀᴋᴇ ᴍᴏᴠɪᴇ ꜰʀᴏᴍ ʜᴇʀᴇ ✧", url=f"https://t.me/TGX_Moviez")]])
     )
-    await bot.send_message(
-        chat_id=LOG_CHANNEL,
-        text=f"<b>#pm_msge\n\nNᴀᴍᴇ : {user}\n\nID : {user_id}\n\nMᴇssᴀɢᴇ : {content}</b>"
-    )
+#    await bot.send_message(
+#        chat_id=LOG_CHANNEL,
+#        text=f"<b>#pm_msge\n\nNᴀᴍᴇ : {user}\n\nID : {user_id}\n\nMᴇssᴀɢᴇ : {content}</b>"
+#    )
 
 @Client.on_callback_query(filters.regex(r"^next"))
 async def next_page(bot, query):
