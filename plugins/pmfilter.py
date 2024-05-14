@@ -2883,10 +2883,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('• ɢʀᴏᴜᴘ •', url="t.me/MW_BOTZ_SUPPORT"),
             InlineKeyboardButton('• ᴜᴘᴅᴀᴛᴇs •', url="t.me/MW_BOTS")
        ],[
-            InlineKeyboardButton('• s •', url="https://t.me/+fAjYIpR5Ju02M2Q1"),
-            InlineKeyboardButton('• ᴍᴏᴠɪᴇғʟɪx •', url="https://t.me/+KeFIjHXhzLMyMWZl")
+            InlineKeyboardButton('• sᴇʀɪᴇs •', url="https://t.me/+bbBQ4fxcJm9jOTc0"),
+            InlineKeyboardButton('• ᴍᴏᴠɪᴇ•', url="https://t.me/+DTTSvAl2ad0yYmE0")
        ],[
-            InlineKeyboardButton('• ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ •', url="https://t.me/Anime_Cruise_Netflix")
+            InlineKeyboardButton('• ᴍᴏᴠɪᴇ ɢʀᴏᴜᴩ •', url="https://t.me/illuminixchats")
        ],[ 
             InlineKeyboardButton('◁ ʙᴀᴄᴋ', callback_data='start')
         ]]
