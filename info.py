@@ -116,6 +116,7 @@ TUTORIAL = environ.get('TUTORIAL', 'https://t.me/MW_BOTS') # Tutorial video link
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : ᴄᴏᴅᴇғʟɪx ʙᴏᴛs')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001868871195')) #Log channel id ( make sure bot is admin )
+FILETOLINK_LOG_CHANNEL = int(environ.get('FILETOLINK_LOG_CHANNEL', '-1001605417052')) 
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/MW_BOTZ_SUPPORT') #Support group link ( make sure bot is admin )
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "False")), False)
