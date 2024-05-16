@@ -117,6 +117,5 @@ gpytranslate
 googletrans
 SpeechRecognition
 gitpython
-
 lexica-api
 MukeshAPI
