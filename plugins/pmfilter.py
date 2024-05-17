@@ -102,7 +102,7 @@ async def fil_mod(client, message):
         await m.edit("ᴜsᴇ :- /autofilter on ᴏʀ /autofilter off")
 
 
-@Client.on_message((filters.group) & filters.text & filters.incoming)
+@Client.on_message((filters.group) & filters.private & filters.text & filters.incoming)
 async def give_filter(client, message):
     await global_filters(client, message)
     group_id = message.chat.id
