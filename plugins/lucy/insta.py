@@ -1,6 +1,9 @@
 from pyrogram import filters, Client
 import bs4, requests, re, asyncio
 import os, traceback, random
+from pyrogram.errors import *
+import re
+import time
 from info import FILETOLINK_LOG_CHANNEL as DUMP_GROUP
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0",
